@@ -21,7 +21,7 @@ public class Enemy : LivingEntity {
     //다음번 공격 가능 시간
     float nextAttackTime;
     //공격 한계 거리
-    float attackDistanceThreshold = 0.5f;
+    float attackDistanceThreshold = 0.5f; 
 
     float damage = 1;
     float myCollisionRadius;
